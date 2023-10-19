@@ -1,2 +1,2 @@
 let number1 = Math.floor(Math.random() * 100)
-number1%2 ? console.log(`${number1}: Это нечетное число`) : console.log(`${number1}: Это четное число`)
+number1 % 2 ? console.log(`${number1}: Это нечетное число`) : console.log(`${number1}: Это четное число`)
