@@ -61,4 +61,4 @@ const users = [
     }
 ];
 
-console.log(users.filter(e=> !(e.id%2)))
+console.log(users.filter(e=> !(e.id % 2)))
